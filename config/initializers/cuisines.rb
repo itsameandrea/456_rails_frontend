@@ -1,0 +1,5 @@
+CUISINES = [
+  'italian',
+  'french',
+  'japanese'
+]
